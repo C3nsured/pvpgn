@@ -9,103 +9,103 @@
   <items>
     <item id="1" file="account_wrap.cpp" function="account_get_locktext">
       <original> by {}</original>
-      <translate></translate>
+      <translate> od {}</translate>
     </item>
     <item id="2" file="account_wrap.cpp" function="account_get_locktext">
       <original> for {}</original>
-      <translate></translate>
+      <translate> pro {}</translate>
     </item>
     <item id="3" file="account_wrap.cpp" function="account_get_locktext">
       <original> permanently</original>
-      <translate></translate>
+      <translate> trvale</translate>
     </item>
     <item id="4" file="account_wrap.cpp" function="account_get_locktext">
       <original> with a reason "{}"</original>
-      <translate></translate>
+      <translate> z důvodu "{}" </translate>
     </item>
     <item id="6" file="alias_command.cpp" function="handle_alias_command">
       <original>No such alias.  Use // to show the list.</original>
-      <translate></translate>
+      <translate>Žádný takový alias. Použij // k zobrazení seznamu.</translate>
     </item>
     <item id="5" file="alias_command.cpp" function="list_aliases">
       <original>Alias list:</original>
-      <translate></translate>
+      <translate>Alias list:</translate>
     </item>
     <item id="7" file="channel.cpp" function="channel_add_connection">
       <original>you are now tempOP for this channel</original>
-      <translate></translate>
+      <translate>nyní jsi tempOP pro tento channel</translate>
     </item>
     <item id="260" file="command.cpp" function="_handle_addacct_command">
       <original>Account name contains some invalid symbol!</original>
-      <translate></translate>
+      <translate>Název účtu obsahuje neplatné symboly!</translate>
     </item>
     <item id="261" file="command.cpp" function="_handle_addacct_command">
       <original>Maximum password length allowed is {}</original>
-      <translate></translate>
+      <translate>Maximální délka hesla je {}</translate>
     </item>
     <item id="262" file="command.cpp" function="_handle_addacct_command">
       <original>Trying to add account "{}" with password "{}"</original>
-      <translate></translate>
+      <translate>Přidávám účet "{}" s heslem "{}"</translate>
     </item>
     <item id="263" file="command.cpp" function="_handle_addacct_command">
       <original>Hash is: {}</original>
-      <translate></translate>
+      <translate>Hash je: {}</translate>
     </item>
     <item id="264" file="command.cpp" function="_handle_addacct_command">
       <original>Failed to create account!</original>
-      <translate></translate>
+      <translate>Nepodařilo se vytvořit účet!</translate>
     </item>
     <item id="265" file="command.cpp" function="_handle_addacct_command">
       <original>Account {} created.</original>
-      <translate></translate>
+      <translate>Účet {} vytvořen.</translate>
     </item>
     <item id="51" file="command.cpp" function="_handle_admin_command">
       <original>You must supply a username.</original>
-      <translate></translate>
+      <translate>Musíte zadat uživatelské jméno.</translate>
     </item>
     <item id="52" file="command.cpp" function="_handle_admin_command">
       <original>There's no account with username {}.</original>
-      <translate></translate>
+      <translate>Neexistuje žádný účet s uživatelským jménem {}</translate>
     </item>
     <item id="53" file="command.cpp" function="_handle_admin_command">
       <original>{} is already a Server Admin</original>
-      <translate></translate>
+      <translate>{} již je Server Admin</translate>
     </item>
     <item id="54" file="command.cpp" function="_handle_admin_command">
       <original>{} has been promoted to a Server Admin</original>
-      <translate></translate>
+      <translate>{} byl povýšen na Server Admina</translate>
     </item>
     <item id="55" file="command.cpp" function="_handle_admin_command">
       <original>{} has promoted you to a Server Admin</original>
-      <translate></translate>
+      <translate>{} Vás povýšil na Server Admina</translate>
     </item>
     <item id="56" file="command.cpp" function="_handle_admin_command">
       <original>{} is not a Server Admin.</original>
-      <translate></translate>
+      <translate>{} není Server Admin</translate>
     </item>
     <item id="57" file="command.cpp" function="_handle_admin_command">
       <original>{} has been demoted from a Server Admin</original>
-      <translate></translate>
+      <translate>{} již není Server Admin</translate>
     </item>
     <item id="58" file="command.cpp" function="_handle_admin_command">
       <original>{} has demoted you from a Server Admin</original>
-      <translate></translate>
+      <translate>{} Vám odebral funkci Server Admina</translate>
     </item>
     <item id="299" file="command.cpp" function="_handle_admins_command">
       <original>Currently logged on Administrators:</original>
-      <translate></translate>
+      <translate>Aktuálně přihlášení správci:</translate>
     </item>
     <item id="416" file="command.cpp" function="_handle_alert_command">
       <original>Your game client doesn't support MessageBox.</original>
-      <translate></translate>
+      <translate>Váš herní klient nepodporuje MessageBox.</translate>
     </item>
     <item id="417" file="command.cpp" function="_handle_alert_command">
       <original>\n\n***************************\nBy {}</original>
-      <translate></translate>
+      <translate>\n\n***************************\nBy {}</translate>
     </item>
     <item id="418" file="command.cpp" function="_handle_alert_command">
       <original>Information from {}</original>
-      <translate></translate>
+      <translate>Informace od {}</translate>
     </item>
     <item id="419" file="command.cpp" function="_handle_alert_command">
       <original> for {}</original>
@@ -113,19 +113,19 @@
     </item>
     <item id="158" file="command.cpp" function="_handle_announce_command">
       <original>Announcement from {}: {}</original>
-      <translate></translate>
+      <translate>Oznámení od {}: {}</translate>
     </item>
     <item id="159" file="command.cpp" function="_handle_announce_command">
       <original>Could not broadcast message.</original>
-      <translate></translate>
+      <translate>Nelze odeslat zprávu.</translate>
     </item>
     <item id="66" file="command.cpp" function="_handle_aop_command">
       <original>This command can only be used inside a channel.</original>
-      <translate></translate>
+      <translate>Tento příkaz lze použít pouze uvnitř channelu.</translate>
     </item>
     <item id="67" file="command.cpp" function="_handle_aop_command">
       <original>You must be at least a Channel Admin to use this command.</original>
-      <translate></translate>
+      <translate>Musíš být alespoň Admin channelu abys mohl použít tento příkaz.</translate>
     </item>
     <item id="68" file="command.cpp" function="_handle_aop_command">
       <original>There's no account with username {}.</original>
@@ -133,23 +133,23 @@
     </item>
     <item id="69" file="command.cpp" function="_handle_aop_command">
       <original>{} is already a Channel Admin</original>
-      <translate></translate>
+      <translate>{} již je Admin channelu</translate>
     </item>
     <item id="70" file="command.cpp" function="_handle_aop_command">
       <original>{} has been promoted to a Channel Admin</original>
-      <translate></translate>
+      <translate>{} byl povýšen na Admina channelu</translate>
     </item>
     <item id="71" file="command.cpp" function="_handle_aop_command">
       <original>{} has promoted you to a Channel Admin for channel "{}"</original>
-      <translate></translate>
+      <translate>{} Vás povýšil na Admina channelu pro channel "{}"</translate>
     </item>
     <item id="198" file="command.cpp" function="_handle_away_command">
       <original>You are now marked as being away.</original>
-      <translate></translate>
+      <translate>Nyný jsi ve stavu "away"</translate>
     </item>
     <item id="199" file="command.cpp" function="_handle_away_command">
       <original>You are no longer marked as away.</original>
-      <translate></translate>
+      <translate>Již nejsi ve stavu "away"</translate>
     </item>
     <item id="218" file="command.cpp" function="_handle_ban_command">
       <original>This command can only be used inside a channel.</original>
@@ -157,15 +157,15 @@
     </item>
     <item id="219" file="command.cpp" function="_handle_ban_command">
       <original>You have to be at least a Channel Operator to use this command.</original>
-      <translate></translate>
+      <translate>Musíš být minimálně Operátor channelu abys mohl použít tento příkaz.</translate>
     </item>
     <item id="220" file="command.cpp" function="_handle_ban_command">
       <original>That account doesn't currently exist.</original>
-      <translate></translate>
+      <translate>Tento účet v současné době neexistuje.</translate>
     </item>
     <item id="221" file="command.cpp" function="_handle_ban_command">
       <original>You cannot ban administrators.</original>
-      <translate></translate>
+      <translate>Nemůžeš banovat administrátora</translate>
     </item>
     <item id="160" file="command.cpp" function="_handle_beep_command">
       <original>Audible notification on.</original>
